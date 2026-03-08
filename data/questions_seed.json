@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the value of x if 3x + 9 = 27?",
+    "options": ["4", "6", "8", "9"],
+    "correct_answer": "6",
+    "difficulty": 0.2,
+    "topic": "Algebra",
+    "tags": ["linear equations", "basic algebra"]
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 5 cm. What is its area?",
+    "options": ["34 cm²", "60 cm²", "17 cm²", "70 cm²"],
+    "correct_answer": "60 cm²",
+    "difficulty": 0.2,
+    "topic": "Geometry",
+    "tags": ["area", "rectangle"]
+  },
+  {
+    "question": "What is the synonym of 'Ephemeral'?",
+    "options": ["Permanent", "Transient", "Robust", "Ancient"],
+    "correct_answer": "Transient",
+    "difficulty": 0.3,
+    "topic": "Vocabulary",
+    "tags": ["synonyms", "adjectives"]
+  },
+  {
+    "question": "If a fair coin is flipped twice, what is the probability of getting two heads?",
+    "options": ["1/2", "1/4", "1/3", "3/4"],
+    "correct_answer": "1/4",
+    "difficulty": 0.3,
+    "topic": "Probability",
+    "tags": ["coins", "independent events"]
+  },
+  {
+    "question": "Solve: 2x² - 8 = 0. What are the values of x?",
+    "options": ["x = ±4", "x = ±2", "x = ±8", "x = ±1"],
+    "correct_answer": "x = ±2",
+    "difficulty": 0.4,
+    "topic": "Algebra",
+    "tags": ["quadratic equations", "roots"]
+  },
+  {
+    "question": "The perimeter of an equilateral triangle is 36 cm. What is the length of one side?",
+    "options": ["9 cm", "12 cm", "18 cm", "6 cm"],
+    "correct_answer": "12 cm",
+    "difficulty": 0.2,
+    "topic": "Geometry",
+    "tags": ["perimeter", "triangles"]
+  },
+  {
+    "question": "What does 'Loquacious' mean?",
+    "options": ["Silent", "Talkative", "Intelligent", "Aggressive"],
+    "correct_answer": "Talkative",
+    "difficulty": 0.4,
+    "topic": "Vocabulary",
+    "tags": ["definitions", "adjectives"]
+  },
+  {
+    "question": "A bag contains 4 red and 6 blue balls. What is the probability of picking a red ball?",
+    "options": ["2/5", "3/5", "1/2", "1/4"],
+    "correct_answer": "2/5",
+    "difficulty": 0.3,
+    "topic": "Probability",
+    "tags": ["combinatorics", "basic probability"]
+  },
+  {
+    "question": "What is the slope of the line passing through (2, 3) and (6, 11)?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": "2",
+    "difficulty": 0.5,
+    "topic": "Algebra",
+    "tags": ["slope", "coordinate geometry"]
+  },
+  {
+    "question": "A circle has a radius of 7. What is its circumference? (Use π ≈ 3.14)",
+    "options": ["43.96", "49.00", "21.98", "153.86"],
+    "correct_answer": "43.96",
+    "difficulty": 0.4,
+    "topic": "Geometry",
+    "tags": ["circle", "circumference"]
+  },
+  {
+    "question": "Choose the antonym of 'Benevolent'.",
+    "options": ["Generous", "Malevolent", "Kind", "Charitable"],
+    "correct_answer": "Malevolent",
+    "difficulty": 0.5,
+    "topic": "Vocabulary",
+    "tags": ["antonyms", "adjectives"]
+  },
+  {
+    "question": "Two dice are rolled. What is the probability of getting a sum of 7?",
+    "options": ["1/6", "7/36", "5/36", "1/4"],
+    "correct_answer": "1/6",
+    "difficulty": 0.5,
+    "topic": "Probability",
+    "tags": ["dice", "sum events"]
+  },
+  {
+    "question": "If f(x) = x² - 4x + 4, what is f(3)?",
+    "options": ["1", "4", "9", "0"],
+    "correct_answer": "1",
+    "difficulty": 0.6,
+    "topic": "Algebra",
+    "tags": ["functions", "substitution"]
+  },
+  {
+    "question": "What is the volume of a cube with side length 4 cm?",
+    "options": ["16 cm³", "64 cm³", "48 cm³", "32 cm³"],
+    "correct_answer": "64 cm³",
+    "difficulty": 0.4,
+    "topic": "Geometry",
+    "tags": ["volume", "cube"]
+  },
+  {
+    "question": "The word 'Obstreperous' most nearly means:",
+    "options": ["Obedient", "Noisy and difficult to control", "Quiet", "Elegant"],
+    "correct_answer": "Noisy and difficult to control",
+    "difficulty": 0.7,
+    "topic": "Vocabulary",
+    "tags": ["advanced vocabulary", "adjectives"]
+  },
+  {
+    "question": "In a class of 30 students, 18 passed an exam. What is the probability a randomly selected student failed?",
+    "options": ["2/5", "3/5", "1/3", "1/5"],
+    "correct_answer": "2/5",
+    "difficulty": 0.6,
+    "topic": "Probability",
+    "tags": ["real-world probability", "fractions"]
+  },
+  {
+    "question": "Solve the system: x + y = 10 and x - y = 4. What is x?",
+    "options": ["3", "6", "7", "4"],
+    "correct_answer": "7",
+    "difficulty": 0.6,
+    "topic": "Algebra",
+    "tags": ["systems of equations", "substitution"]
+  },
+  {
+    "question": "Two angles of a triangle are 55° and 75°. What is the third angle?",
+    "options": ["40°", "50°", "60°", "45°"],
+    "correct_answer": "50°",
+    "difficulty": 0.3,
+    "topic": "Geometry",
+    "tags": ["angles", "triangles"]
+  },
+  {
+    "question": "A word that means 'to make something seem less serious or important' is:",
+    "options": ["Amplify", "Exacerbate", "Trivialize", "Illuminate"],
+    "correct_answer": "Trivialize",
+    "difficulty": 0.8,
+    "topic": "Vocabulary",
+    "tags": ["advanced vocabulary", "verbs"]
+  },
+  {
+    "question": "Using the binomial theorem, what is the coefficient of x² in the expansion of (1 + x)⁵?",
+    "options": ["5", "10", "15", "20"],
+    "correct_answer": "10",
+    "difficulty": 0.9,
+    "topic": "Probability",
+    "tags": ["binomial theorem", "combinations", "advanced"]
+  }
+]
